@@ -1,2 +1,2 @@
-# HumanPM
-Towards User-Centric Fashion Editing: An Anatomy-Aware Framework for Multi-Task Instruction Following and Customized Try-On
+# AnatHuman
+Towards User-Centric Multi-Task Fashion Editing: An Anatomy-Aware Framework
